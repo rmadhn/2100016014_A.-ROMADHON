@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991023905616",
+    "project_id": "praktikum10-cfa50",
+    "storage_bucket": "praktikum10-cfa50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991023905616:android:13ed422a32a7a1a8084a55",
+        "android_client_info": {
+          "package_name": "com.mezuw.apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUa-UO5odqHyo5rE7zBt0oMjPcEL7dWnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
